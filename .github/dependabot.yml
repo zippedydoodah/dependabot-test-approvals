@@ -10,11 +10,11 @@ updates:
       interval: "weekly"
 
   - package-ecosystem: "gradle"
-    directory: "gradle"
+    directory: "/gradle"
     schedule:
       interval: "daily"
 
   - package-ecosystem: "pip"
-    directory: "python"
+    directory: "/python"
     schedule:
       interval: "daily"
