@@ -53,7 +53,7 @@ targetCompatibility = 1.7
 
 dependencies {
     compile "joda-time:joda-time:2.2"
-    testCompile "junit:junit:4.12"
+    testCompile "junit:junit:4.13.2"
 }
 // end::dependencies[]
 
